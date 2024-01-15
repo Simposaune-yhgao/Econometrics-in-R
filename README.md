@@ -1,2 +1,3 @@
 - This is the coursework of Econometrics. I have done it in R.
 - This course is meant to deal with large sets of panel data, with multi dimentinal and time varying.
+- The course had concered chapter of Panel data models,	Fixed and random effects models, and Models for count data.
